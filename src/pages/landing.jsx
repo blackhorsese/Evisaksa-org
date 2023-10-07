@@ -6,8 +6,6 @@ import Description from "../component/description";
 import Discover from "../component/discover";
 import Europe from "../component/europe";
 import Footer from "../component/footer";
-import Blog from "../component/step/blog";
-import FAQ from "../component/step/faqs";
 import "../pages/style.css";
 
 function Landing() {
@@ -19,9 +17,7 @@ function Landing() {
       <Description />
       <Europe />
       <Asia />
-      <Blog/>
       <Discover />
-      <FAQ/>
       <Footer />
     </>
   );
