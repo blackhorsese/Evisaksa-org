@@ -61,7 +61,7 @@ function Footer() {
           </div>
         </div>
 
-        <div className="flex  justify-between w-[40%] md:w-[20%] mx-auto pt-10">
+{/*         <div className="flex  justify-between w-[40%] md:w-[20%] mx-auto pt-10">
           <a href="https://www.youtube.com/visitsaudi" target="_blank">
             <img className="w-[20px] cursor-pointer" src={Vector} />
           </a>
@@ -74,7 +74,7 @@ function Footer() {
           <a href="https://twitter.com/VisitSaudiNow" target="_blank">
             <img className="w-[20px] cursor-pointer" src={Vector4} />
           </a>
-        </div>
+        </div> */}
       </div>
     </React.Fragment>
   );
