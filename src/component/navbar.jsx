@@ -16,7 +16,7 @@ export default function Navbar({ color }) {
     <div className="bg-grey md:bg-transparent max-w-8xl justify-center mx-auto overflow-hidden md:px-20 px-5 py-3 md:pt-10">
       <div className="grid grid-cols-3">
         <a href="/" className="self-center">
-            <img className="h-16" src="./Evisa.png" alt="logo"/>
+            <img className="h-16" src="./evisa.png" alt="logo"/>
         </a>
         <div></div>
         <div className="self-center hidden lg:flex gap-10 justify-end">
